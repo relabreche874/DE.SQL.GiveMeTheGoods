@@ -1,0 +1,1 @@
+select StudentName, Address, City, PostalCode, Country, id from students as Learners;

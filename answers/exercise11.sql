@@ -1,0 +1,1 @@
+select country from students where country in ('sint maarten', 'haiti');
